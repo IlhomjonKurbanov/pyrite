@@ -1,6 +1,6 @@
 # pyrite
 A web-based test engine for research on visual presentation factors in online
-news articles.
+news articles. A slimmed-down version of this application was created to administer this experiment in a proctored setting: that code can be found at https://github.com/marijnburger/pyrite_proctored.
 
 # local setup
 1. Download repository & [install Node.js](https://nodejs.org/en/download/)
